@@ -2,9 +2,7 @@ package cuerpos.spacer;
 
 import java.io.Serializable;
 import java.util.*;
-
 import principal.spacer.Screen;
-
 import coordenaico.spacer.Cuadrante;
 import coordenaico.spacer.Punto;
 

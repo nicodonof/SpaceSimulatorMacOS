@@ -1,10 +1,7 @@
 package cuerpos.spacer;
 
 import java.io.Serializable;
-import java.util.ArrayList;
 import java.util.Date;
-
-
 import coordenaico.spacer.Punto;
 
 

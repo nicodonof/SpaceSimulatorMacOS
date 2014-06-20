@@ -3,10 +3,6 @@ package cuerpos.spacer;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Date;
-
-import org.newdawn.slick.Color;
-import org.newdawn.slick.Graphics;
-
 import coordenaico.spacer.Punto;
 
 

@@ -1,15 +1,9 @@
 package principal.spacer;
 
 import java.util.ArrayList;
-import java.util.Date;
-
 import org.newdawn.slick.Color;
-import org.newdawn.slick.Font;
 import org.newdawn.slick.Graphics;
-import org.newdawn.slick.TrueTypeFont;
-
 import coordenaico.spacer.Punto;
-
 import cuerpos.spacer.Asteroide;
 import cuerpos.spacer.CuerpoCeleste;
 import cuerpos.spacer.Estrella;

@@ -2,7 +2,6 @@ package coordenaico.spacer;
 
 import java.io.Serializable;
 import java.util.ArrayList;
-import java.util.Iterator;
 import coordenaico.spacer.Cuadrante;
 import cuerpos.spacer.Estrella;
 import cuerpos.spacer.Planeta;

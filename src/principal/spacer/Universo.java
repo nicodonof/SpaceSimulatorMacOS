@@ -4,12 +4,9 @@ package principal.spacer;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Date;
-
 import coordenaico.spacer.ArrayCuadrant;
 import coordenaico.spacer.Cuadrante;
 import coordenaico.spacer.Punto;
-
-
 import cuerpos.spacer.ArrayCuerpoCeleste;
 import cuerpos.spacer.Asteroide;
 import cuerpos.spacer.CuerpoCeleste;

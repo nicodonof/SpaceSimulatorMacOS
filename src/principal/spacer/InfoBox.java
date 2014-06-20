@@ -2,7 +2,6 @@ package principal.spacer;
 
 import java.io.Serializable;
 import java.util.ArrayList;
-
 import org.newdawn.slick.Color;
 import org.newdawn.slick.Graphics;
 

@@ -1,9 +1,6 @@
 package cuerpos.spacer;
 
 import java.io.Serializable;
-import java.util.ArrayList;
-
-import coordenaico.spacer.Cuadrante;
 
 public class Supernova extends CuerpoCeleste implements Serializable{
 	
