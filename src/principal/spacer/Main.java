@@ -19,17 +19,16 @@ import org.newdawn.slick.SlickException;
 
 
 public class Main extends BasicGame implements Screen {
-
 	private Universo universo;
-
+	
 	private static Image back;
 	
 	private static float cameraX = 0;
-
+	
 	private static float cameraY = 0;
 	
 	private static int delta;
-
+	
 	public Main(String title) {
 		super("Java Sandbox");
 	}
